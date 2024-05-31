@@ -1,0 +1,10 @@
+C:\prog\ВВРПО 5\obj\Debug\ВВРПО 5.csproj.AssemblyReference.cache
+C:\prog\ВВРПО 5\obj\Debug\ВВРПО_5.Form1.resources
+C:\prog\ВВРПО 5\obj\Debug\ВВРПО_5.Properties.Resources.resources
+C:\prog\ВВРПО 5\obj\Debug\ВВРПО 5.csproj.GenerateResource.cache
+C:\prog\ВВРПО 5\obj\Debug\ВВРПО 5.csproj.CoreCompileInputs.cache
+C:\prog\ВВРПО 5\bin\Debug\ВВРПО 5.exe.config
+C:\prog\ВВРПО 5\bin\Debug\ВВРПО 5.exe
+C:\prog\ВВРПО 5\bin\Debug\ВВРПО 5.pdb
+C:\prog\ВВРПО 5\obj\Debug\ВВРПО 5.exe
+C:\prog\ВВРПО 5\obj\Debug\ВВРПО 5.pdb
